@@ -61,7 +61,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://chat.
 
 ## 💕 ScreenShot!
 [enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture1.PNG?raw=true)
-![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture2.PNG?raw=true)![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture3.PNG?raw=true)
+![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture2.PNG?raw=true)
+![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture3.PNG?raw=true)
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture4.PNG?raw=true)
 
 
