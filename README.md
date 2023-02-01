@@ -1,19 +1,19 @@
 # Shopping App
 
-A shopping app built with Next.js, Tailwind, and PocketBase to easily shop items by tags and search with ease.
+A shopping app 🛍️✨ built with Next.js, Tailwind, and PocketBase to easily shop items by tags and search with ease.
 
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture1.PNG?raw=true)
-## Features
+## 🎌 Features
 
 -   Browse items by tags
 -   Search for items easily
 -   Add items to the cart
 
-## Getting Started
+## 🚀 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### 💡 Prerequisites
 
 You will need to have the following installed on your machine:
 
@@ -59,6 +59,10 @@ The app should now be running at [http://localhost:3000](http://localhost:3000/)
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
 
-## ScreenShot![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture1.PNG?raw=true)
+## 💕 ScreenShot!
+[enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture1.PNG?raw=true)
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture2.PNG?raw=true)![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture3.PNG?raw=true)
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture4.PNG?raw=true)
+
+
+## Made by the 😃 KIRA SAMA
