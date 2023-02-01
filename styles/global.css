@@ -1,0 +1,47 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+@font-face {
+    font-family: Rubik1;
+    src: url(/font/Rubik1.ttf);
+}
+
+@font-face {
+    font-family: Rubik2;
+    src: url(/font/Rubik2.ttf);
+}
+
+@font-face {
+    font-family: Rubik3;
+    src: url(/font/Rubik3.ttf);
+}
+
+.font1{
+    font-family: Rubik1;
+}
+
+.font2{
+    font-family: Rubik3;
+}
+
+.font3{
+    font-family: Rubik2;
+}
+
+
+.bg-show{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/img/Home.jpg);
+}
+
+input {
+    outline: none;
+}
+
+.h-content{
+    height: 91vh;
+}
