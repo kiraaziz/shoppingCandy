@@ -59,8 +59,8 @@ The app should now be running at [http://localhost:3000](http://localhost:3000/)
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
 
-## 💕 ScreenShot!
-[enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture1.PNG?raw=true)
+## 💕 ScreenShot
+![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture1.PNG?raw=true)
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture2.PNG?raw=true)
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture3.PNG?raw=true)
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture4.PNG?raw=true)
