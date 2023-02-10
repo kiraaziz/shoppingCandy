@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://chat.
 ![enter image description here](https://github.com/kiraaziz/shoppingCandy/blob/main/screenshot/Capture4.PNG?raw=true)
 
 
-## Made by the 😃 KIRA SAMA
+## Made with ❤️❤️ by the 😃 KIRA SAMA
